@@ -1,3 +1,4 @@
+/*
 package io.pivotal.pal.tracker.allocations;
 
 import org.springframework.context.annotation.Configuration;
@@ -21,3 +22,4 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
 
 }
+*/
